@@ -1,0 +1,18 @@
+{
+  "__comment": "When modifying this file, you need to reset or reinstall all current client installations",
+  "auth": [{
+      "type": "oauth2",
+      "config": {
+        "oauth2.clients": [
+
+          { "clientID": "be8f0931-89e2-42b3-a868-e1c52521b3a4", "redirectURL": "https://hemalch20-gwc5bfic-ch20space1-oauth-sampleservice-ch20.cfapps.ch20.hana.ondemand.com", "grantType": "authorization_code" }
+        ],
+        "oauth2.tokenEndpoint": "https://hemalch20-gwc5bfic-ch20space1-oauth-sampleservice-ch20.cfapps.ch20.hana.ondemand.com/oauth2/api/v1/token",
+        "oauth2.authorizationEndpoint": "https://hemalch20-gwc5bfic-ch20space1-oauth-sampleservice-ch20.cfapps.ch20.hana.ondemand.com/oauth2/api/v1/authorize"
+      },
+      "requireOtp": false
+    }],
+  "ServiceUrl" : "https://hemalch20-gwc5bfic-ch20space1-oauth-sampleservice-ch20.cfapps.ch20.hana.ondemand.com/",
+  "appID": "oauth.sampleservice.ch20",
+  "multiUser": false
+}

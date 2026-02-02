@@ -1,0 +1,17 @@
+   ______________________________
+ / \                             \.
+|   | This log file was created  |.
+ \_ | by the Wizard, it contains |.
+    | the configuration data     |.
+    | used for the application   |.
+    | generation.                |.
+    |                            |.
+    | It shouldn't be edited     |.
+    | manually, changing it      |.
+    | won't affect the generated |.
+    | sample.                    |.
+    |   _________________________|___
+    |  /                            /.
+    \_/____________________________/.
+
+{"projectName":"sampleservicech20","projectLocation":"C:\\Users\\I063510\\AndroidStudioProjects\\sampleservicech20","projectNamespace":"com.company.sampleservicech20","accountName":"ch20-hemal","serviceURL":"https://hemalch20-gwc5bfic-ch20space1-oauth-sampleservice-ch20.cfapps.ch20.hana.ondemand.com/","serverURL":"https://mobile-service-cockpit-web.cfapps.ch20.hana.ondemand.com/cockpit/v1/org/031fb10d-c97a-49a1-bd66-22e1be179afb/space/da333a85-1f79-4f1d-8472-423a8965b9de/","applicationID":"oauth.sampleservice.ch20","applicationSecurityConfig":"OAUTH","jsonPath":null,"senderID":null,"serverKey":null,"isLogEnabled":true,"isLogUploadEnabled":true,"SAPSDKLocation":"MAVEN_LOCAL","activationType":"appConfigFile","generateJavaCode":false,"generateOnlineApp":false,"isUsageIncluded":false,"isCrashReportIncluded":false,"isMultipleUserMode":false,"isViewBaseFramework":false}

@@ -1,0 +1,16 @@
+{
+  "projectInfo": {
+    "projectName": "sampleservicech20",
+    "createdDate": "Thursday, January 22, 2026 at 7:25:22 PM",
+    "regenerateProxyClassDate": ""
+  },
+  "cloudApplication": {
+    "cloudApplicationId": "oauth.sampleservice.ch20",
+    "destinations": [
+      {
+        "id": "com.sap.edm.sampleservice.v4"
+      }
+    ]
+  },
+  "msServerConfigurationName": "ch20-hemal"
+}
